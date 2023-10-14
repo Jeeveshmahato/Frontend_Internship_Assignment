@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-poppins: Poppins;
+  --font-inherit: inherit;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-16xl: 35px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-lg: 18px;
+  --font-size-46xl: 65px;
+
+  /* Colors */
+  --roc-primary: #0076ce;
+  --fs-search-card-bg: #fff;
+  --fs-search-surface-bg: #fafbfc;
+  --color-gray-100: rgba(255, 255, 255, 0);
+  --fs-search-text: #000;
+  --color-darkgray-100: #999;
+  --fs-search-red: #ff6666;
+  --fs-search-table-bg: #f4f4f4;
+  --fs-search-banner-blue: #ddf3ff;
+  --fs-search-banner-purple: #efd9f9;
+
+  /* Gaps */
+  --gap-11xs: 2px;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-xl: 20px;
+  --padding-base: 16px;
+  --padding-8xl: 27px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-2xl: 21px;
+  --br-mini: 15px;
+  --br-10xs: 3px;
+}
